@@ -1,0 +1,12 @@
+section.main-section div.row {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+ul.title-area i.foundicon-graph {
+    vertical-align: middle;
+    line-height: 22px;
+    font-size: 20px;
+    position: relative;
+    top: 1px;
+}
